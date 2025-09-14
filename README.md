@@ -28,7 +28,7 @@ An intelligent inventory management system with predictive analytics, built with
 - **API**: RESTful web services with OpenAPI documentation
 - **Testing**: JUnit 5, Mockito with comprehensive test coverage
 - **Build**: Maven with multi-profile configuration
-- **Documentation**: Swagger UI for API exploration
+- **Documentation**: UI for API exploration
 
 ## Getting Started
 
@@ -247,4 +247,5 @@ The demo initializes sample data and demonstrates:
 - Integration with external suppliers
 - Advanced reporting with charts
 - Multi-location inventory support
+
 - Barcode scanning capabilities
